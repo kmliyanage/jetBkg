@@ -45,7 +45,7 @@ void highPt_Selector(){
     
     const int mc = 27;
     const int data = 1;
-    const int data_f = 4;
+    const int data_f = 3;
     Int_t prev_event = -88;
     
     
@@ -64,7 +64,6 @@ void highPt_Selector(){
          "zp2mu_histos_1.root",
          "zp2mu_histos_2.root",
          "zp2mu_histos_3.root",
-         "zp2mu_histos_4.root",
          //"Run2017C_1",
          //"Run2017C_2",
          //"Run2017C_3",
